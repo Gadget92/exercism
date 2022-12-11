@@ -1,5 +1,5 @@
 .pytest_cache
-*/.exercism
-*/__pycache__
+*.exercism
+*__pycache__
 
-*/*.pyc
+*.pyc
